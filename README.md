@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning about data visualizations and regression in R
 - 💞️ I’m looking to collaborate on data projects
 - 📫 How to reach me at emilyftblue@gmail.com
-- 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: I enjoy using data to perform Sociology research
 
 <!---
